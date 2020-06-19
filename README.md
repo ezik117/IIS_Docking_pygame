@@ -1,6 +1,6 @@
 # IIS_Docking_pygame
-A simulator of International Space Station docking (PyGame testing)
-use game.py to run simulator
+A simulator of International Space Station docking (PyGame testing)<br>
+Use game.py to run simulator
 
 Control:
 - arrow keys - to move spaceship
