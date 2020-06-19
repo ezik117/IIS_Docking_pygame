@@ -1,0 +1,16 @@
+To start game please execute:
+python game.py
+
+Игра тестировалась на Python версии  3.7.3
+
+- установить библиотеку Python командой: pip install pygame
+
+- Игра запускается командой: py game.py
+
+
+
+Для редактирования основных экранов в Adobe Flash:
+- установить шрифт square_dot_digital-7.ttf из папки Fonts
+- установить шрифт SeldomScene-B6lG.ttf из папки Fonts
+
+Папка _resources не используется игрой и содержит вспомогательные и исходные файлы 
